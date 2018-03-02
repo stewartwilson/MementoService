@@ -1,0 +1,14 @@
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\requests\AddPinRequest.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\response\GetAllPinsByUserResponse.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\pins\Pin.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\response\BaseResponse.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\dao\RDSDao.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\response\AddPinByUserResponse.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\response\AddPinResponse.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\dao\DynamoDBDao.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\requests\AddPinByUserRequest.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\dao\DynamoDBDaoImpl.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\dao\RDSDaoImpl.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\MementoService.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\MementoServiceImpl.java
+C:\Users\stewart\eclipse-workspace\MementoService\src\main\java\com\stewart\wilson\memento\service\requests\GetAllPinsByUserRequest.java
